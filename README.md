@@ -1,3 +1,4 @@
+[![NPM version](https://badge.fury.io/js/couchapp.png)](http://badge.fury.io/js/couchapp)
 # Installation
 
 Install node.
